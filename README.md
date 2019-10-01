@@ -6,7 +6,8 @@
  2. install npm --> https://www.npmjs.com/get-npm
  3. git clone https://github.com/jonmo35/graph-api.git
  4. cd to root of where repo was downloaded
- 5. run project by running command 
+# Run project terminal 
+ 1. run project by running command 
     node graphApi.js
 
 
